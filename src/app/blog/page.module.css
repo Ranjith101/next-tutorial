@@ -1,0 +1,6 @@
+.container{
+    background: green;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
